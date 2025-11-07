@@ -14,10 +14,16 @@ body {
 
 #box1 {
     background-color: lightcoral;
+       background-image: url('fly.gif');
+    background-size: cover;
+    background-position: center;
     
 }
 #box2 {
     background-color: lightseagreen;
+       background-image: url('bird.gif');
+    background-size: cover;
+    background-position: center;
 }
 #box3 {
     background-color: lightgoldenrodyellow;
